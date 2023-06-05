@@ -24,7 +24,7 @@ server_script {
 }
 
 dependencies {
-    'ox_target',
+
     'ox_lib',
     'ox_inventory'
 }
