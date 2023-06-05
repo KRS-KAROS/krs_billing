@@ -1,5 +1,15 @@
 # krs_billing!
 
+Dependencies:  ox_inventory, ox_lib
+
+## Items ox_inventory
+['billing'] = {
+		label = 'Fattura',
+		weight = 1,
+		stack = true,
+		allowArmed = true
+	},
+
 
 ![FiveM® by Cfx re - KRS GAMEMODE 2 0 built with CFX Default FiveM! 05_06_2023 14_01_43](https://github.com/KRS-KAROS/krs_billing/assets/131356071/89ab1dfb-aead-445f-9ea9-606ab7c3772f)
 ![FiveM® by Cfx re - KRS GAMEMODE 2 0 built with CFX Default FiveM! 05_06_2023 14_02_00](https://github.com/KRS-KAROS/krs_billing/assets/131356071/1cd6872d-7fe8-4454-a31d-05ef37a8d399)
